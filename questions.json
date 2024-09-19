@@ -1,0 +1,240 @@
+{
+  "heading": "Sentences",
+  "topics": [
+    {
+      "heading": "Sentences",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Choose the complete sentence:",
+          "options": [
+            { "text": "The flowers in the garden." },
+            { "text": "We went to the beach." },
+            { "text": "Playing with toys." },
+            { "text": "Because it was fun." }
+          ],
+          "answer": 1,
+          "explanation": "\"We went to the beach\" has both a subject and a predicate, making it a complete sentence."
+        },
+        {
+          "questionNo": 2,
+          "question": "Identify the run-on sentence:",
+          "options": [
+            { "text": "I like to swim it is fun." },
+            { "text": "She is reading a book." },
+            { "text": "We have a dog." },
+            { "text": "He eats breakfast at 7 AM." }
+          ],
+          "answer": 0,
+          "explanation": "This sentence has two independent clauses without proper punctuation or conjunction."
+        },
+        {
+          "questionNo": 3,
+          "question": "Fill in the blank to complete the sentence: \"The cat ___ under the chair.\"",
+          "options": [
+            { "text": "sits" },
+            { "text": "sitting" },
+            { "text": "sit" },
+            { "text": "none of the above" }
+          ],
+          "answer": 0,
+          "explanation": "\"The cat sits under the chair\" has both a subject and a predicate, making it a complete sentence."
+        },
+        {
+          "questionNo": 4,
+          "question": "\"Walking to school.\" is a complete sentence.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "\"Walking to school\" is a fragment; it does not form a complete thought."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which of the following is a fragment?",
+          "options": [
+            { "text": "They are happy." },
+            { "text": "In the park." },
+            { "text": "He loves pizza." },
+            { "text": "The sun is bright." }
+          ],
+          "answer": 1,
+          "explanation": "\"In the park\" is a fragment because it does not express a complete thought."
+        },
+        {
+          "questionNo": 6,
+          "question": "Choose the complete sentence:",
+          "options": [
+            { "text": "The dog barking loudly." },
+            { "text": "She dances gracefully." },
+            { "text": "After the rain stops." },
+            { "text": "With his friends." }
+          ],
+          "answer": 1,
+          "explanation": "\"She dances gracefully\" has both a subject and a predicate, making it a complete sentence."
+        },
+        {
+          "questionNo": 7,
+          "question": "Identify the run-on sentence:",
+          "options": [
+            { "text": "They went to the market they bought vegetables." },
+            { "text": "I love chocolate." },
+            { "text": "The sky is blue." },
+            { "text": "She has a cat." }
+          ],
+          "answer": 0,
+          "explanation": "This sentence has two independent clauses without proper punctuation or conjunction."
+        },
+        {
+          "questionNo": 8,
+          "question": "Fill in the blank to complete the sentence: \"The bird ___ into the sky.\"",
+          "options": [
+            { "text": "flying" },
+            { "text": "flies" },
+            { "text": "fly" },
+            { "text": "none of the above" }
+          ],
+          "answer": 1,
+          "explanation": "\"The bird flies in the sky\" has both a subject and a predicate, making it a complete sentence."
+        },
+        {
+          "questionNo": 9,
+          "question": "\"He runs fast.\" is a complete sentence.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 0,
+          "explanation": "\"He runs fast\" has both a subject and a predicate, making it a complete sentence."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which is a fragment?",
+          "options": [
+            { "text": "She cooks dinner." },
+            { "text": "Under the bed." },
+            { "text": "He reads books." },
+            { "text": "They play soccer." }
+          ],
+          "answer": 1,
+          "explanation": "\"Under the bed\" is a fragment because it does not express a complete thought."
+        },
+        {
+          "questionNo": 11,
+          "question": "Choose the complete sentence:",
+          "options": [
+            { "text": "The cat in the house." },
+            { "text": "We saw a movie." },
+            { "text": "Eating ice cream." },
+            { "text": "Because it is hot." }
+          ],
+          "answer": 1,
+          "explanation": "\"We saw a movie\" has both a subject and a predicate, making it a complete sentence."
+        },
+        {
+          "questionNo": 12,
+          "question": "Fill in the blank to complete the sentence: \"The dog ___ loudly.\"",
+          "options": [
+            { "text": "bark" },
+            { "text": "barks" },
+            { "text": "barking" },
+            { "text": "brake" }
+          ],
+          "answer": 1,
+          "explanation": "\"The dog barks loudly\" has both a subject and a predicate, making it a complete sentence."
+        },
+        {
+          "questionNo": 13,
+          "question": "\"Playing games.\" is a complete sentence.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "\"Playing games\" is a fragment; it does not form a complete thought."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which of the following is a fragment?",
+          "options": [
+            { "text": "The cat jumped over the fence." },
+            { "text": "After the rain stopped." },
+            { "text": "She plays the violin beautifully." },
+            { "text": "They went to the park." }
+          ],
+          "answer": 1,
+          "explanation": "\"After the rain stopped\" is a fragment because it does not express a complete thought."
+        },
+        {
+          "questionNo": 15,
+          "question": "Identify the run-on sentence:",
+          "options": [
+            { "text": "I have a dog, and his name is Max." },
+            { "text": "The sky is blue it looks so pretty." },
+            { "text": "We are going to the zoo." },
+            { "text": "She likes to dance." }
+          ],
+          "answer": 1,
+          "explanation": "This sentence has two independent clauses without proper punctuation or a conjunction."
+        },
+        {
+          "questionNo": 16,
+          "question": "\"Running through the field.\" is a fragment.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 0,
+          "explanation": "\"Running through the field\" is a fragment because it does not express a complete thought."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which of the following is a run-on sentence?",
+          "options": [
+            { "text": "She reads books every night." },
+            { "text": "We played soccer at the park." },
+            { "text": "He loves ice cream he eats it every day." },
+            { "text": "The dog barked at the stranger." }
+          ],
+          "answer": 2,
+          "explanation": "This sentence has two independent clauses without proper punctuation or a conjunction."
+        },
+        {
+          "questionNo": 18,
+          "question": "\"She is reading.\" is a run-on sentence.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "\"She is reading\" is a complete sentence because it has a subject and a predicate and expresses a complete thought."
+        },
+        {
+          "questionNo": 19,
+          "question": "Fill in the blank to complete the sentence: \"The dog and cat ___ best friends.\"",
+          "options": [
+            { "text": "are" },
+            { "text": "is" },
+            { "text": "be" },
+            { "text": "were" }
+          ],
+          "answer": 0,
+          "explanation": "\"The dog and cat are best friends\" has both a subject and a predicate, making it a complete sentence."
+        },
+        {
+          "questionNo": 20,
+          "question": "Identify the run-on sentence:",
+          "options": [
+            { "text": "The rain stopped, and the sun came out." },
+            { "text": "He likes to swim he goes to the pool every day." },
+            { "text": "We watched a movie last night." },
+            { "text": "She is baking cookies." }
+          ],
+          "answer": 1,
+          "explanation": "This sentence has two independent clauses without proper punctuation or a conjunction."
+        }
+      ]
+    }
+  ]
+}
